@@ -42,6 +42,9 @@
     },
     "runtimeVersion": {
       "policy": "sdkVersion"
-    }
+    },
+    "plugins": [
+      "expo-asset"
+    ]
   }
 }
